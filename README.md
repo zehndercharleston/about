@@ -119,3 +119,5 @@ URL: https://www.zehnder-radiators.co.uk
 4. Our Brands | Zehnder Group AG
 Описание: Официальный сайт Zehnder Group AG, представляющий продукцию и решения в сегментах радиаторов и вентиляции.
 URL: https://www.zehndergroup.com
+5. Официальный магазин трубчатых радиаторов Zehnder Charleston на территории России.
+URL: https://zehnders.ru/
